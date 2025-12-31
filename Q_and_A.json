@@ -1,0 +1,86 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "category": "hours_location",
+      "question": "What are your opening hours?",
+      "answer": "We are open from 11 AM to 10 PM, Monday to Sunday. The kitchen closes at 9:30 PM."
+    },
+    {
+      "id": 2,
+      "category": "hours_location",
+      "question": "Where are you located?",
+      "answer": "We're at 123 Main Street, Downtown. Get directions here: https://maps.google.com/?q=123+Main+Street+Downtown"
+    },
+    {
+      "id": 3,
+      "category": "reservations",
+      "question": "Can I make a reservation?",
+      "answer": "Absolutely! You can book a table online at https://restaurant.com/reservations or call us at (123) 456-7890."
+    },
+    {
+      "id": 4,
+      "category": "menu",
+      "question": "Do you have vegetarian options?",
+      "answer": "Yes! We have a dedicated vegetarian section on our menu. View full menu: https://restaurant.com/menu"
+    },
+    {
+      "id": 5,
+      "category": "menu",
+      "question": "What are today's specials?",
+      "answer": "Today's specials include Grilled Salmon with lemon herb butter and Seasonal Wild Mushroom Risotto."
+    },
+    {
+      "id": 6,
+      "category": "ordering",
+      "question": "Do you offer takeout?",
+      "answer": "Yes! Place takeout orders online at https://restaurant.com/takeout or call us at (123) 456-7890."
+    },
+    {
+      "id": 7,
+      "category": "ordering",
+      "question": "What delivery apps do you work with?",
+      "answer": "We're on Uber Eats, DoorDash, and Grubhub."
+    },
+    {
+      "id": 8,
+      "category": "events",
+      "question": "Can I book a private dining room?",
+      "answer": "Yes! We have private spaces for 10-50 guests. Contact events@restaurant.com for details."
+    },
+    {
+      "id": 9,
+      "category": "general",
+      "question": "Do you have parking?",
+      "answer": "Yes, we offer complimentary valet parking. Street parking is also available after 6 PM."
+    },
+    {
+      "id": 10,
+      "category": "general",
+      "question": "Is the restaurant wheelchair accessible?",
+      "answer": "Yes, we have ramp access, wide aisles, and accessible restrooms."
+    },
+    {
+      "id": 11,
+      "category": "general",
+      "question": "Do you have gift cards?",
+      "answer": "Yes! Purchase gift cards at https://restaurant.com/giftcards"
+    },
+    {
+      "id": 12,
+      "category": "support",
+      "question": "Can I speak to a human?",
+      "answer": "Of course! Call us at (123) 456-7890 during business hours."
+    }
+  ],
+  
+  "categories": [
+    {"id": "hours_location", "name": "Hours & Location"},
+    {"id": "reservations", "name": "Reservations"},
+    {"id": "menu", "name": "Menu & Dietary"},
+    {"id": "ordering", "name": "Takeout & Delivery"},
+    {"id": "events", "name": "Events & Groups"},
+    {"id": "general", "name": "General Info"},
+    {"id": "support", "name": "Support"}
+  ]
+}
